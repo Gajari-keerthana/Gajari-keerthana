@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gajari-keerthana
-- 👀 I’m interested in Data Analyst
-- 🌱 I’m currently learning Data Analyst
-- 💞️ I’m looking to collaborate on Data Analyst, Sql, R, Tableau, Ms-Excel
+- 👀 I’m interested in Data Analyst and Automtion testing
+- 🌱 I’m currently working as a automation tester
+- 💞️ I’m looking to collaborate on Data Analyst, Automation tester, Sql, R, Tableau, Ms-Excel
 - 📫 Message me in Github
 
 <!---
